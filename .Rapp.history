@@ -1,0 +1,49 @@
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+rainfall_chang
+rainfall_change
+rainfall
+class(rainfall)
+as.data.table(rainfall)
+class(as.data.table(rainfall))
+rainfall <- as.data.table(rainfal)
+rainfall <- as.data.table(rainfall)
+class(rainfall)
+rainfall <- rainfall[,Annual_Total_Rainfall := scale(Annual_Total_Rainfall,center = min(Annual_Total_Rainfall),scale = max(Annual_Total_Rainfall)-min(Annual_Total_Rainfall))]
+rainfall
+head(rainfall)
+avg_yearly_2002_11
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+avg_yearly_2002_11
+head(avg_yearly_2002_11)
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+rainfall_norm
+class(rainfall_norm)
+class(avg_yearly_norm)
+merge(rainfall_norm,avg_yearly_norm,by = Year)
+merge(rainfall_norm,avg_yearly_norm,by = "Year")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+source("/var/folders/gd/jbjkn_1j7n5fdsthldqnh7lr0000gn/T//RtmpuaM26z/file96e7e05e9e3")#
+unlink("/var/folders/gd/jbjkn_1j7n5fdsthldqnh7lr0000gn/T//RtmpuaM26z/file96e7e05e9e3")
+source("/var/folders/gd/jbjkn_1j7n5fdsthldqnh7lr0000gn/T//RtmpuaM26z/file96e363e76b8")#
+unlink("/var/folders/gd/jbjkn_1j7n5fdsthldqnh7lr0000gn/T//RtmpuaM26z/file96e363e76b8")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+avg_yearly_norm
+head(avg_yearly_norm)
+merge(rainfall_norm,avg_yearly_norm,by = "Year")
+source("/var/folders/gd/jbjkn_1j7n5fdsthldqnh7lr0000gn/T//RtmpuaM26z/file96e489dcce9")#
+unlink("/var/folders/gd/jbjkn_1j7n5fdsthldqnh7lr0000gn/T//RtmpuaM26z/file96e489dcce9")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+merge(rainfall_norm,avg_yearly_norm,by = "Year")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+merge(rainfall_norm,avg_yearly_norm,by = "Year")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+melt(norm_change_data)
+melt(norm_change_data,id.vars="Year")
+source("/Users/akshansh/Workspace/R Projects/riceanalysis.R")
+s
